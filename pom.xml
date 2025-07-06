@@ -11,8 +11,8 @@
 		<relativePath />
 	</parent>
 	
-  <groupId>bj.ifri.tpbank</groupId>
-  <artifactId>tpbank</artifactId>
+  <groupId>bj.pj.usermanagerapp</groupId>
+  <artifactId>usermanagerapp</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>tpbank</name>
