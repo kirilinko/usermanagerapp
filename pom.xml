@@ -11,7 +11,7 @@
 		<relativePath />
 	</parent>
 	
-  <groupId>bj.pj.usermanagerapp</groupId>
+  <groupId>com.exemple.usermanagerapp</groupId>
   <artifactId>usermanagerapp</artifactId>
   <version>1.0-SNAPSHOT</version>
 
